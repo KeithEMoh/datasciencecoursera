@@ -9,4 +9,4 @@ and add a simple markdown file to it.
 
 The file named "HelloWorld.md" is a requirement of the Data Scientist's Toolbox course.
 
-The file named "MarkDown.md" shows my own experimentation with the markdown language.
+The file named "MarkDownTest.md" shows my own experimentation with the markdown language.
